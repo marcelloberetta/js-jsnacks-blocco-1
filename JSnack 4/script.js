@@ -13,6 +13,7 @@ for(i=0; i<invited.length; i++) {
    
    if (userTry === user){
       userPass = true;
+      break;
    }
 }
 
