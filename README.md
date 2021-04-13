@@ -28,3 +28,13 @@ In un array sono contenuti i nomi degli invitati alla festa del grande Gatsby, c
 Crea un array vuoto.
 Chiedi all'utente di inserire un numero,
 se è dispari inseriscilo nell'array.
+
+
+* JSnack 8
+
+Chiedi un numero di 4 cifre all’utente
+e calcola la somma di tutte le cifre che compongono il numero.
+
+* JSnack 9
+
+Calcola la somma e la media dei primi 10 numeri.
